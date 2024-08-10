@@ -1,4 +1,4 @@
-Steps
+Project Steps
 ------
 1. In the root directory fire the following command to install the required node packages
 
